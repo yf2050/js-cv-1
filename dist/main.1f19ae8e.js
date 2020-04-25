@@ -143,7 +143,7 @@ var fn = function fn() {
       fn();
       n = n + 1;
     }
-  }, 40);
+  }, 35);
 };
 
 fn();
